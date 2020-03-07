@@ -3,3 +3,5 @@ oneFunction{
 }
 
 added a feature in merg trial branch
+
+trying no fast forward
